@@ -1,4 +1,4 @@
-# ScreenScore [Check Live Website](https://screen-score.vercel.app/)
+# ScreenScore [Check Live Website](https://screen-score-gt626u4yr-abhishek96k.vercel.app/)
 
 ScreenScore is a web application built using React, Material UI, Firebase, HTML, CSS, and Tailwind CSS. It provides users with a platform to check movie reviews, add their own reviews, and contribute to the movie database. The app also supports mobile devices, offering a seamless experience across different screen sizes. 
 ## Tech Stack-
